@@ -1,2 +1,2 @@
 # school-scraper
-Scripts pour scraper des annuaires d'anciens
+These scripts scrap alumni directories of French schools
